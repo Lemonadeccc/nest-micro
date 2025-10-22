@@ -1,0 +1,6 @@
+PATCH http://localhost:3000/reservations/68f8f3898c66f02b20209d80
+Content-Type: application/json
+
+{
+  "startDate": "2021-01-03"
+}

@@ -1,0 +1,11 @@
+
+POST http://localhost:3000/reservations
+Content-Type: application/json
+
+{
+  "startDate": "2021-01-01",
+  "endDate": "2021-01-05",
+  "placeId": "12345",
+  "invoiceId": "493"
+}
+
