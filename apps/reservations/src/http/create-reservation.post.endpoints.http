@@ -1,4 +1,3 @@
-
 POST http://localhost:3000/reservations
 Content-Type: application/json
 
@@ -9,3 +8,10 @@ Content-Type: application/json
   "invoiceId": "493"
 }
 
+
+POST http://localhost:3000/reservations
+Content-Type: application/json
+
+{
+  "startDate": "1231"
+}
