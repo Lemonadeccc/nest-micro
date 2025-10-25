@@ -1,10 +1,10 @@
-# POST http://localhost:3001/users/
-# Content-Type: application/json
+POST http://localhost:3001/users/
+Content-Type: application/json
 
-# {
-#   "email": "test@example.com",
-#   "password": "randomstrongpassword123"
-# }
+{
+  "email": "test2@example.com",
+  "password": "Password123!"
+}
 
 
 
